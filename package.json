@@ -1,0 +1,26 @@
+{
+  "name": "express-mvc-sample",
+  "version": "1.0.0",
+  "description": "A sample mvc boiler plate for small web apps",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "watch": "nodemon app/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sidhilsivdas/express-mvc-sample.git"
+  },
+  "author": "Sidhil Sivadas M",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sidhilsivdas/express-mvc-sample/issues"
+  },
+  "homepage": "https://github.com/sidhilsivdas/express-mvc-sample#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  }
+}
